@@ -11,3 +11,13 @@
 
 - **Modelo Jerárquico:**  
   Datos organizados en estructura tipo árbol.
+
+
+
+  ## Lenguajes para Bases de Datos
+
+- **SQL (Structured Query Language):**  
+  Lenguaje estándar para bases de datos relacionales para realizar consultas, inserciones, actualizaciones y borrados.
+
+- **NoSQL Query Languages:**  
+  Lenguajes específicos o APIs para bases NoSQL (por ejemplo, MongoDB Query Language).git 
