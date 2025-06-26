@@ -21,3 +21,11 @@
 
 - **NoSQL Query Languages:**  
   Lenguajes específicos o APIs para bases NoSQL (por ejemplo, MongoDB Query Language).git 
+
+  ## Diseño y Normalización
+
+Para un buen diseño de base de datos es importante aplicar procesos de normalización, que evitan redundancias y mejoran la integridad de los datos.
+
+- **Primera forma normal (1NF):** Eliminar grupos repetitivos.
+- **Segunda forma normal (2NF):** Eliminar dependencias parciales.
+- **Tercera forma normal (3NF):** Eliminar dependencias transitivas.
