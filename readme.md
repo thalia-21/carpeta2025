@@ -60,3 +60,5 @@ El objetivo principal de la base de datos Thalia es gestionar eficientemente la 
 
 La base de datos Thalia será una pieza clave para el manejo de datos en el proyecto, asegurando integridad, seguridad y rapidez en el acceso a la información.
 
+
+

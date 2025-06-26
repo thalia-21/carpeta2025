@@ -1,0 +1,13 @@
+## Modelos de Datos
+
+- **Modelo Relacional:**  
+  Basado en tablas con relaciones entre ellas usando claves primarias y foráneas.
+
+- **Modelo de Documentos:**  
+  Datos almacenados en documentos tipo JSON o BSON.
+
+- **Modelo de Grafos:**  
+  Datos representados como nodos y relaciones, útil para redes sociales y recomendaciones.
+
+- **Modelo Jerárquico:**  
+  Datos organizados en estructura tipo árbol.
