@@ -1,6 +1,4 @@
 
-
-```markdown
 # Base de Datos
 
 ## Proyecto: Thalia  
